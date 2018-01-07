@@ -1,4 +1,4 @@
-# yenten YTN openS=source mining pool
+# yenten YTN opensource mining pool
 
 ## requirements
 
